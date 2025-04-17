@@ -24,8 +24,8 @@ The tracker reads values from LDRs placed on the left and right sides. Based on 
 | Component                | Quantity |
 |--------------------------|----------|
 | Arduino Uno              | 1        |
-| LDR                      | 2 or 3   |
-| 10kΩ Resistors           | 2 or 3   |
+| LDR                      | 3        |
+| 10kΩ Resistors           | 3        |
 | SG90 Servo Motor         | 1        |
 | ADXL345 Accelerometer    | 1        |
 | Breadboard & Jumper Wires| As needed |
@@ -91,16 +91,8 @@ Install these libraries using the Arduino Library Manager:
 ## 🚀 Future Improvements
 
 - Add vertical tracking using the top LDR and a second servo
-- Mount the setup on a small solar panel for real-world light following
 - Add data logging or integrate an IoT dashboard (e.g., Blynk or Thingspeak)
 - Display servo angle and sensor values on an LCD screen.
-
----
-
-## 🤝 Contribution
-
-Pull requests, issues, and suggestions are welcome!  
-Feel free to **fork** this repository and contribute to make it even better.
 
 ---
 
