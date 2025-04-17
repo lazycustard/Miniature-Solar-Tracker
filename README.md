@@ -93,13 +93,7 @@ Install these libraries using the Arduino Library Manager:
 - Add vertical tracking using the top LDR and a second servo
 - Mount the setup on a small solar panel for real-world light following
 - Add data logging or integrate an IoT dashboard (e.g., Blynk or Thingspeak)
-- Display servo angle and sensor values on an LCD screen
-
----
-
-## 🎥 Demo / Screenshots
-
-*Insert demo images or video links here (e.g., YouTube or GIF of working model)*
+- Display servo angle and sensor values on an LCD screen.
 
 ---
 
